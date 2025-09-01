@@ -16,5 +16,11 @@ Flip the cards, match the pairs, and increase your score!
 3. If both emojis match → you get points.
 4. If not, cards flip back after 1 second.
 
+   
+## 🔗 Live Demo
+
+[Memory Match Game](https://pritivish07025.github.io/MemoryMatchGame/)
+
+
 
 
