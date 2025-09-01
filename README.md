@@ -21,6 +21,12 @@ Flip the cards, match the pairs, and increase your score!
 
 [Memory Match Game](https://pritivish07025.github.io/MemoryMatchGame/)
 
+-------
+
+Priti Vishwakarma
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
